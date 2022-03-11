@@ -1,5 +1,7 @@
 from math import factorial
 
+# This is code I shared with 12Q
+
 row_length = 50
 num_set = [1, 2, 3, 4]
 
