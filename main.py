@@ -49,3 +49,5 @@ for pt in partitions:
   total_tilings += calc_tilings(pt)
 
 print("Total number of tilings = {}".format(total_tilings))
+
+//  .
